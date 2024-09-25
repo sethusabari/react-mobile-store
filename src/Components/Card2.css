@@ -1,0 +1,17 @@
+.Card2 {
+    background-image: url('./../../public/ExampleImage/backgroundimg.jpg');
+    width: 100%;
+    height: 700px;
+}
+
+.home {
+    max-width: 100%;
+    display: flex;
+    min-height: 100vh;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    color: aliceblue;
+    margin-bottom: 30px;
+    flex-direction: column;
+}
